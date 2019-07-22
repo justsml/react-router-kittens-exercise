@@ -17,6 +17,20 @@ Scenario: Your incredibly popular kitten blog is suddenly
 > What visual cues do you see?
 
 Est. time: 3-30min.
+
+
+
+*** STRETCH GOALS ***
+PART 2 INSTRUCTIONS:
+  Add "page component" routes under the /kitten/ route.
+  
+  You need to build 3 page routes, each to view
+  multiple images on a page.
+
+  The required routes:
+  Show 3 Images:  /kitten/3 
+  Show 6 Images:  /kitten/6
+  Show 9 Images:  /kitten/9
 */
 
 function App() {
